@@ -1,6 +1,4 @@
 # Name: main.py
-# Author: Sergey Mikhaylov
-# Date: 2019-07
 # Description:
 #   an database implementated by python dictionary
 

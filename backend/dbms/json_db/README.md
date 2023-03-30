@@ -1,7 +1,6 @@
 # json_db
 
 - Author: Sergey Mikhaylov
-- Date: Jul. 2019
 
 A database implemented by File system (json format)
 
@@ -13,6 +12,3 @@ A database implemented by File system (json format)
 | Read       | O(1)                |
 | Update     | O(n)                |
 | Delete     | O(n)                |
-
-- Isolation: ❌
-- Durability: ✔️
